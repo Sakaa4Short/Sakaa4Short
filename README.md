@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kla-nyene' AKA Sakaa</h1>
 <h3 align="center">1st Gen Liberian-American & Child of the Internet</h3>
 
-- 🌱 I’m currently learning **Ruby on Rails & Back-End Frameworks**
+- 🌱 I’m currently learning **Ruby on Rails & Back-End Frameworks & Game Script Writing**
 
-- 💬 Ask me about **Front-End Languages and Self Taught Projects**
+- 💬 Ask me about **Front-End Languages and Self Taught Languages & Future Projects**
 
 - ⚡ Fun fact **Polyglot in Training**
 
